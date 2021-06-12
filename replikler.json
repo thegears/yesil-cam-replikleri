@@ -1,4 +1,4 @@
-const replikliste = [
+{
   {
     "foto" : "https://i2.cnnturk.com/i/cnnturk/75/0x0/5273faf2050668163c286e83",
     "yazi" : "Seni hiç sevmiyorum sütoğlan! Babanı da sevmezdim!"
@@ -91,4 +91,4 @@ const replikliste = [
     "foto" : "https://i2.cnnturk.com/i/cnnturk/75/0x0/5273faf2050668163c286eb1",
     "yazi" : "Lütfücüğüm herşeyi yapıyorum da bu gözlerimden ateş çıkaramıyorum"
   }
-];
+}
